@@ -1,0 +1,14 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo Nothing to do yet
+
+aretifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - 2017_AnnetteTerpstraResume.pdf
+    - styles/main.css
+    - images/*
